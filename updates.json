@@ -21,6 +21,11 @@
           "version": "1.3.7",
           "update_link": "https://jorgebaptista.github.io/firefox-agent-bridge-updates/xpi/firefox_agent_bridge-1.3.7.xpi",
           "update_hash": "sha256:a353576734ebdb10715487aa8e66b3b0205def16c7b43b43fc0cd98865b76ac0"
+        },
+        {
+          "version": "1.3.8",
+          "update_link": "https://jorgebaptista.github.io/firefox-agent-bridge-updates/xpi/firefox_agent_bridge-1.3.8.xpi",
+          "update_hash": "sha256:dd128d37ae8e264c3c07bb0ac54a280a33d29c31cdb6aeb462cdd937a17c05ec"
         }
       ]
     }
